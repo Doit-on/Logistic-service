@@ -1,0 +1,14 @@
+﻿=====================================================
+Logistics & Field Service System (LMI & NNAP)
+=====================================================
+Version: v1.3.0
+Build Date: 2026-10-03 08:27:49
+Target: GitHub Pages (doit-on.github.io/Logistic-service)
+Key Features in v1.3.0:
+- Red Sync Progress Bar (with status notifications)
+- Dual Admin Partition (Admin LMI = Master, Admin NNAP = Operations)
+- Daily Shift Work (Start/End shift logging)
+- Mindful & Encouraging Prompts for Field Technicians
+- Live Monitor Radar for Operations
+- Cache-Busting Script/CSS Parameter (?v=1.3.0)
+=====================================================
