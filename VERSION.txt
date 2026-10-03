@@ -2,7 +2,7 @@
 Logistics & Field Service System (LMI & NNAP)
 =====================================================
 Version: v1.5.0
-Build Date: 2026-10-03 10:59:12
+Build Date: 2026-10-03 11:45:43
 Target: GitHub Pages (doit-on.github.io/Logistic-service)
 Key Features in v1.5.0:
 - Smart Route Planner & Sequencing (เธเธฑเธ”เธฅเธณเธ”เธฑเธเธเธฒเธฃเธงเธดเนเธเธเธฒเธเธญเธฑเธเธเธฃเธดเธขเธฐ)
