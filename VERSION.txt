@@ -1,15 +1,14 @@
 ﻿=====================================================
 Logistics & Field Service System (LMI & NNAP)
 =====================================================
-Version: v1.5.0
-Build Date: 2026-10-03 11:45:43
+Version: v1.6.0
+Build Date: 2026-10-06 08:41:58
 Target: GitHub Pages (doit-on.github.io/Logistic-service)
-Key Features in v1.5.0:
-- Smart Route Planner & Sequencing (เธเธฑเธ”เธฅเธณเธ”เธฑเธเธเธฒเธฃเธงเธดเนเธเธเธฒเธเธญเธฑเธเธเธฃเธดเธขเธฐ)
-- HQ Depot Origin (เธญเนเธฒเธเธญเธดเธ เธเธเธ. เธฅเนเธญเธเนเธกเธ— เธญเธดเธเธ—เธดเน€เธเธฃเธเธฑเนเธ เธเธฅเธญเธเธซเธฅเธงเธ เธเธ—เธธเธกเธเธฒเธเธต)
-- Multi-Stop Google Maps Navigation Link
-- Next-Job Auto-Prompt on Completion (เน€เธ”เนเธเธเธฒเธเธ–เธฑเธ”เนเธเธ—เธฑเธเธ—เธตเน€เธกเธทเนเธญเธเธดเธ”เธเธฒเธ เธเธฃเนเธญเธกเธเธธเนเธกเน€เธฃเธดเนเธกเน€เธ”เธดเธเธ—เธฒเธ)
-- User Autonomy (เน€เธฅเธทเธญเธเธชเธฅเธฑเธเธเธฃเธฑเธเธฅเธณเธ”เธฑเธเธเธฒเธเน€เธญเธเนเธ”เนเธญเธดเธชเธฃเธฐ)
-- Red Sync Progress Bar & Dual Admin Isolation
-- Cache-Busting Script/CSS Parameter (?v=1.5.0)
+Key Features in v1.6.0:
+- Dedicated 'Update Sheet' Button (เธ”เธถเธเธเธฒเธ & เธเนเธฒเนเธเนเธเนเธฒเธขเธฅเนเธฒเธชเธธเธ”เธเธฒเธ Google Sheets เธ—เธฑเธเธ—เธต)
+- Dedicated 'Cloud Sync' Button (เธเธดเธเธเนเธฃเธฐเธเธเธชเธญเธเธ—เธฒเธ Master Data + เนเธเธเธฒเธ + เธฃเธฒเธขเธเธฒเธฃเน€เธเธดเธ)
+- Fast Pull & Auto-State Refresh across multiple employee phones
+- Base64 Stripping in Raw_JSON (เธเนเธญเธเธเธฑเธเน€เธเธฅเธฅเนเธเธตเธ•เน€เธเธดเธ 50k เธ•เธฑเธงเธญเธฑเธเธฉเธฃ)
+- Two-way Expense Synchronization across devices
+- Cache-Busting Script/CSS Parameter (?v=1.6.0)
 =====================================================
