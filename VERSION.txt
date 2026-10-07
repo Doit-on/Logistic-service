@@ -2,7 +2,7 @@
 Logistics & Field Service System (LMI & NNAP)
 =====================================================
 Version: v1.8.5
-Build Date: 2026-10-07 10:22:02
+Build Date: 2026-10-07 10:43:02
 Target: GitHub Pages (doit-on.github.io/Logistic-service)
 Key Features in v1.8.5:
 1. Fix Photo Scanning & Document Field Extraction (เนเธเนเธเธฑเธเธซเธฒเธฃเธฐเธเธเธ–เนเธฒเธขเธ เธฒเธเธ”เธถเธเธเนเธญเธกเธนเธฅเธเนเธฒเธเธฃเธฒเธขเธเธฒเธฃเน€เธ”เธดเธก):
