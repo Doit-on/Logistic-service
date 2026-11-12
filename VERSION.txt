@@ -3,7 +3,7 @@ Logistics LMI Team - Enterprise Fleet Management
 บริษัท ล๊อกแมท อินทิเกรชั่น จำกัด (LMI)
 =====================================================
 Version: v2.0.3
-Build Date: 2026-11-11 13:54:29
+Build Date: 2026-11-12 16:48:44
 Target: GitHub Pages (doit-on.github.io/Logistic-service)
 Features in Logistics LMI Team v2.0.3:
 1. Dedicated LMI Operating System (แยกโปรแกรมเด็ดขาด ไม่ปนกับ NNAP):
